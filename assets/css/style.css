@@ -16,7 +16,9 @@ background: linear-gradient(68.15deg, #792C3B 16.62%, #EFB8B8 85.61%);
   flex-direction: row;
   align-items: center;
   justify-content: space-around ;
-  padding: 2px;
+  padding: 1px;
+  height: 100px;
+
 }
 
 .cabecalho-imagem {
@@ -32,12 +34,12 @@ background: linear-gradient(68.15deg, #792C3B 16.62%, #EFB8B8 85.61%);
   font-family: 'Sarala', sans-serif;
   color: #FFF2E7;
   font-weight: 400;
-  font-size: 28px;
+  font-size: 22px;
 }
 
 .conteudo {
   margin-bottom: 48px;
-  border-top: 0.4px solid #FFF2E7;;
+  border-top: 0.4px solid #FFF2E7;
 }
 
 .conteudo-principal {
@@ -56,14 +58,14 @@ background: linear-gradient(68.15deg, #792C3B 16.62%, #EFB8B8 85.61%);
 .conteudo-principal-escrito-titulo {
   font-family: Righteous;
   font-weight: 400;
-  font-size: 66px;
+  font-size: 50px;
   color:#FFF2E7;
 }
 
 .conteudo-principal-escrito-subtitulo {
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
-  font-size: 28px;
+  font-size: 20px;
   color: #ECD6C4;
 }
 
@@ -76,7 +78,7 @@ background: linear-gradient(68.15deg, #792C3B 16.62%, #EFB8B8 85.61%);
   border-radius: 20px;
   font-family: Sarala;
   font-weight: 400;
-  font-size:24px;
+  font-size:18px;
   color:#2F2325; 
 }
 
@@ -109,7 +111,7 @@ background: linear-gradient(68.15deg, #792C3B 16.62%, #EFB8B8 85.61%);
 .conteudo-secundario-paragrafo {
   font-family: Sarala;
   font-weight: 00;
-  font-size: 24px;
+  font-size: 18px;
   color: #ECD6C4;
 }
 
