@@ -35,6 +35,15 @@ background: linear-gradient(68.15deg, #792C3B 16.62%, #EFB8B8 85.61%);
   color: #FFF2E7;
   font-weight: 400;
   font-size: 22px;
+  border-radius: 10px;
+  padding:10px;
+}
+
+.cabecalho-menu-item:hover{
+  background-color:rgba(236, 214, 196, 0.53);
+  border-radius: 10px;
+  padding:10px;
+
 }
 
 .conteudo {
